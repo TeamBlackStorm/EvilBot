@@ -10,7 +10,7 @@
       ],
     
    "logo":    "https://telegra.ph/file/2345311d29a66213a9d98.jpg",  
-   "repository": "https://github.com/shrvan42/EvilBot",
+   "repository": "https://github.com/TeamBlackStorm/EvilBot",
    "addons": [
           {
          "options": {
@@ -60,12 +60,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "shrvan42"
+         "value": "LEGENDXGAURAV"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "EVIL_SUPPORT_CHAT"
+         "value": "EvilX9Support"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
